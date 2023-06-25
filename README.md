@@ -9,7 +9,7 @@
 
 **How to run this project:**
 
-1>You can download the project by click on the **code** and then **download the Zip** as shown in the below snap shot.
+1>You can download the project by click on the **code** and then **download the Zip** .
 
 2>Once you downlaod the project zip,Extract it by **7Zip** or the default windows extractor to any  new folder.
 
