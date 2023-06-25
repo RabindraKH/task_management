@@ -9,10 +9,17 @@
 
 **How to run this project:**
 
-1>after downloading the project ,run the project on Spring tool suite.
+1>You can download the project by click on the **code** and then **download the Zip** as shown in the below snap shot.
+![image](https://github.com/RabindraKH/task_management/assets/128822827/78e2868b-06e9-4b59-a519-b6d71ffd39b0)
+2>Once you downlaod the project zip,Extract it by **7Zip** or the default windows extractor to any  new folder.
 
-2>Then open any browser and in the address bar type "localhost:8080/loginPage" .This url is the home login page of the project to start.
+3>Then open any programming IDE (I am using Eclipse IDE) and import the project using import option of the IDE.
 
+4>select **Existing maven project** while importing and select the project file directory where you extracted the project till you see the **Maven** folder.Then import the project in the IDE.
+
+5>once import is done click and expand the **task_management**, Then expand the **com.task_management** ,Then run the **TaskManagementApplication** class as java application.Now the project should run successfully.
+
+6>Then now open any browser and enter the URL:   **localhost:8080/loginPage** ,It show show the login page which is the starting page of this project.
 
 **Project functionallity:**
 
