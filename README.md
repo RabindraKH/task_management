@@ -2,7 +2,7 @@
 
 **Project has build on:**
 
-1>Java,SpringBoot,HTML,CSS,MySQL,JSP,Hibernate
+1>Java JDK version 17,Spring Tool Suite 4,HTML,CSS,MySQL Workbench 8,JSP,Hibernate
 
 2>Spring MVC,On OPP Concent,JPA Repository
 
