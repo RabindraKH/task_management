@@ -10,7 +10,7 @@
 **How to run this project:**
 
 1>You can download the project by click on the **code** and then **download the Zip** as shown in the below snap shot.
-![image](https://github.com/RabindraKH/task_management/assets/128822827/78e2868b-06e9-4b59-a519-b6d71ffd39b0)
+
 2>Once you downlaod the project zip,Extract it by **7Zip** or the default windows extractor to any  new folder.
 
 3>Then open any programming IDE (I am using Eclipse IDE) and import the project using import option of the IDE.
