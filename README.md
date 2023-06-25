@@ -15,7 +15,7 @@
 
 3>Then open any programming IDE (I am using Eclipse IDE) and import the project using import option of the IDE.
 
-4>select **Existing maven project** while importing and select the project file directory where you extracted the project till you see the **Maven** folder.Then import the project in the IDE.
+4>select **Existing maven project** while importing and select the project file directory where you extracted the project till you see the **Mvn** folder.Then import the project in the IDE.
 
 5>once import is done click and expand the **task_management**, Then expand the **com.task_management** ,Then run the **TaskManagementApplication** class as java application.Now the project should run successfully.
 
