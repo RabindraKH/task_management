@@ -30,7 +30,7 @@ Both username and password field is required to login.
 Only existing user can login who have already regisered so for the new user needs to click on "Register" button to register them self.  
 ![image](https://github.com/RabindraKH/task_management/assets/128822827/08613b5b-89ee-4212-a6d8-c97f90d5fa34)
 
-2>Once the user lick on "Register" user will get the registration page and can able to register.
+2>Once the user click on "Register" user will get the registration page and can able to register.
 
 Both the fields are required to register.
 
