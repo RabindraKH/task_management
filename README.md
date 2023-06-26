@@ -28,14 +28,17 @@
 Both username and password field is required to login.
 
 Only existing user can login who have already regisered so for the new user needs to click on "Register" button to register them self.  
-![image](https://github.com/RabindraKH/task_management/assets/128822827/08613b5b-89ee-4212-a6d8-c97f90d5fa34)
+![image](https://github.com/RabindraKH/task_management/assets/128822827/cf7a66f6-c8db-4651-82ff-deb3a9074140)
+
+
 
 2>Once the user click on "Register" user will get the registration page and can able to register.
 
 Both the fields are required to register.
 
 if the same username entered,will show error.Once user registered will go back to login page.
-![image](https://github.com/RabindraKH/task_management/assets/128822827/09062b43-f229-4d06-a4d7-6f80bf46a1e3)
+![image](https://github.com/RabindraKH/task_management/assets/128822827/d14072d3-38ae-428f-86dd-be8f808a4e60)
+
 
 
 3>Once User Logged in it will show to create task page as shown below.
@@ -43,21 +46,26 @@ if the same username entered,will show error.Once user registered will go back t
 User have to fill the "Task title","Description" and "Due date" to create the task
 
 Here as well all fields are required to fill.Once user created the task it will show the message of successful saved of recored.
-![image](https://github.com/RabindraKH/task_management/assets/128822827/3fbf95ef-1f24-41d1-8c26-828ac63a226c)
+![image](https://github.com/RabindraKH/task_management/assets/128822827/0dfccb3c-46d5-4ade-9585-6c8c9fef5f8b)
+
 
 
 4>Then if user clicked on "My task" on the menu bar , It will show the user's tasks.
 
 Here user can update and delete their task.as shown in below images.
-![image](https://github.com/RabindraKH/task_management/assets/128822827/1cadb002-b5f3-470e-8ea5-828a2bf02d7b)
-![image](https://github.com/RabindraKH/task_management/assets/128822827/3e0c1e59-a5eb-4f9a-96d0-8cb5c55eec18)
+![image](https://github.com/RabindraKH/task_management/assets/128822827/207ddead-4d5c-423e-94c1-efbc388727de)
+
+![image](https://github.com/RabindraKH/task_management/assets/128822827/c2c7f625-48d5-4755-a920-6af4a5b612fc)
+
 
 
 5>User can view all the tasks once user clicked on "View all Task" from the menu bar.
 
 In this page user can search the tasks based on the "Due Date" and "Task status".Also user can search the task based on username or task title or description.
-![image](https://github.com/RabindraKH/task_management/assets/128822827/2ecbdeb4-7243-4cde-91ba-8ecd307ba701)
+![image](https://github.com/RabindraKH/task_management/assets/128822827/ee0fc22c-828c-4abe-8ea1-16ba72e4df5f)
+
 
 6>Then user will be logged out and go to the login page back, if clicks on Log Out menu.
-![image](https://github.com/RabindraKH/task_management/assets/128822827/02b9de74-1a8b-4b23-bfb4-24df0a266088)
+![image](https://github.com/RabindraKH/task_management/assets/128822827/7fb321e1-6f4b-4ccb-a451-3a705da7b031)
+
 
