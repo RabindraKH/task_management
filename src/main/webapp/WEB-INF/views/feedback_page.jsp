@@ -7,18 +7,13 @@
 <meta charset="ISO-8859-1">
 <title>Insert title here</title>
 <style>
-    html, body {
+    .container {
       height: 60%;
       margin: 0;
       display: flex;
       justify-content: center;
       align-items: center;
     }
-
-    .container {
-    }
-    
-
   </style>
 </head>
 <body>

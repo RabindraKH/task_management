@@ -6,40 +6,28 @@
 <meta charset="ISO-8859-1">
 <title>Insert title here</title>
 <style>
-    html, body {
-      height: 60%;
-      margin: 0;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-    }
-
     .container {
-      border: 2px solid #333; 
-      padding: 20px; 
-      width: 600px; 
-      margin: 0 auto; 
-    }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-    }
-
-    th, td {
+  display: grid;
+  place-items: center;
+}
+label,input {
+ 
+  margin-bottom: 10px;
+  margin-right: 10px;
+  padding: 5px;
+}
+table{
+border: 0px solid black;
+  padding: 20px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+}
+th, td {
       padding: 8px;
-      text-align: left;
-      border-bottom: 1px solid #ddd;
-    }
-
-    td {
-      vertical-align: middle;
-    }
-
-    th {
-      vertical-align: middle;
       text-align: center;
+       vertical-align: middle;
     }
-
   </style>
 </head>
 <body>
@@ -50,10 +38,12 @@ Enter new username and password to register<br>
 <form action="addNewUser" method="post">
 <Table>
 <tr><td>
-User Name<input type="text" name="userName" required/>
+<label>User Name</label>
+<input type="text" name="userName" required/>
 </td></tr>
 <tr><td>
-Password<input type="password" name="password" required/>
+<label>Password</label>
+<input type="password" name="password" required/>
 </td></tr>
 <tr><td>
 <input type="submit" value="Register"/>

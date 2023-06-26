@@ -8,44 +8,41 @@
 <meta charset="ISO-8859-1">
 <title>Insert title here</title>
 <style>
-    html, body {
-      height: 60%;
-      margin: 0;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-    }
+    .container, {
+  display: grid;
+  place-items: right;
+ 
+}
+.search-form {
+position: absolute;
+top: 80px;
+left: 950px;
 
-    .container {
-    }
-     table {
-      width: 100%;
-      border-collapse: collapse;
-    }
-
-    th, td {
+}
+label,input{
+ 
+  margin-bottom: 10px;
+  margin-right: 10px;
+  padding: 5px;
+}
+table{
+border: 0px solid black;
+position: absolute;
+  padding: 20px;
+  top: 120px;
+  left: 400px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+}
+th, td  {
       padding: 8px;
-      text-align: left;
-      border-bottom: 1px solid #ddd;
-    }
-
-    td {
-      vertical-align: middle;
-    }
-
-    th {
-      vertical-align: middle;
       text-align: center;
-    }
-    .search-form{
-      width: 50px; 
-      margin-left: auto; 
-      margin-right: 0; 
-      
-    }
-    
+       vertical-align: middle;
+    }       
   </style>
 </head>
+
 
 <body>
 <div class="container">

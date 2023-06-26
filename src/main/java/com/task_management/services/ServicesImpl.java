@@ -60,7 +60,6 @@ public class ServicesImpl implements Services {
 		List<UserTask> list = userTaskRepo.findByUserName(userName);
 		for(UserTask user:list) {
 			user.getDueDate();
-			System.out.println(user.getUserName());
 		}
 		return list;
 	}

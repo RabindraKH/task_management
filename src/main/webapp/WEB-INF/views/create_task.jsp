@@ -7,42 +7,38 @@
 <meta charset="ISO-8859-1">
 <title>Home</title>
 <style>
-.container {
-      border: 2px solid #333; 
-      padding: 20px; 
-      width: 600px; 
-      margin: 0 auto; 
-    }
-    html, body {
-      height: 60%;
-      margin: 0;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-    }
+ .container {
+  display: grid;
+  place-items: center;
+ 
+}
+label,input{
+ 
+  margin-bottom: 10px;
+  margin-right: 10px;
+  padding: 5px;
+}
+h1{
+position: absolute;
+top: 50px;
+left: 450px;
+}
 
-    .container {
-    }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin: 0 auto;
-    }
+table{
+border: 0px solid black;
+position: absolute;
+  padding: 20px;
+  top: 120px;
+  left: 550px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+}
 
-    th, td {
+th, td  {
       padding: 8px;
       text-align: center;
-      border-bottom: 1px solid #ddd;
-      box-sizing: border-box;
-    }
-
-    td {
-      vertical-align: middle;
-    }
-
-    th {
-      vertical-align: middle;
-      text-align: center;
+       vertical-align: middle;
     }
     
 
@@ -54,6 +50,7 @@
 
 <form action="createTask" method="post">
 <table class="form-table">
+
 <tr><td>
 Title : <input type=text name="title" required/>
 </td></tr>
